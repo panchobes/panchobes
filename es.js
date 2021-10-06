@@ -1,0 +1,20 @@
+var i18n= {
+    selected: 'Su estancia:',
+    night: 'Noche',
+    nights: 'Noches',
+    button: 'Cerrar',
+    'checkin-disabled': 'Check-in disabled',
+    'checkout-disabled': 'Check-out disabled',
+    'day-names-short': ['Dom', 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab'],
+    'day-names': ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'],
+    'month-names-short': ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
+    'month-names': ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+    'error-more': 'La estancia no puede ser mayor a 1 noche',
+    'error-more-plural': 'La estancia no puede ser mayor a %d noches',
+    'error-less': 'La estancia no puede ser menor de 1 noche',
+    'error-less-plural': 'La estancia no puede ser menor a %d noches',
+    'info-more': 'Selecciona la estancia - mínimo 1 noche',
+    'info-more-plural': 'Selecciona la estancia - mínimo %d noches',
+    'info-range': 'Seleccione un rango de fechas entre %d y %d noches',
+    'info-default': 'Seleccione un rango de fechas'
+};

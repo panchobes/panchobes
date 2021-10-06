@@ -1,0 +1,20 @@
+var i18n= {
+    selected: 'Dein Aufenthalt:',
+    night: 'Nacht',
+    nights: 'Nächte',
+    button: 'Schliessen',
+    'checkin-disabled': 'Check-in deaktiviert',
+    'checkout-disabled': 'Check-out deaktiviert',
+    'day-names-short': ['Son', 'Mon', 'Die', 'Mit', 'Don', 'Fre', 'Sam'],
+    'day-names': ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'],
+    'month-names-short': ['Jan', 'Feb', 'Mär', 'Apr', 'Mai', 'Jun', 'Jul', 'Aug', 'Sep', 'Okt', 'Nov', 'Dez'],
+    'month-names': ['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August', 'September', 'Oktober', 'November', 'Dezember'],
+    'error-more': 'Der Aufenthalt kann nicht länger als 1 Nacht sein',
+    'error-more-plural': 'Der Aufenthalt kann nicht länger als %d Nächte sein',
+    'error-less': 'Der Aufenthalt kann nicht weniger als 1 Nacht sein',
+    'error-less-plural': 'Der Aufenthalt kann nicht weniger als %d Nächte dauern',
+    'info-more': 'Wählen Sie den Aufenthalt - mindestens 1 Nacht',
+    'info-more-plural': 'Wählen Sie den Aufenthalt - mindestens %d Nächte',
+    'info-range': 'Wählen Sie eine Reihe von Daten zwischen %d und %d Nächten',
+    'info-default': 'Wählen Sie eine Reihe von Daten aus'
+};
